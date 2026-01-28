@@ -10,7 +10,7 @@ C’est la méthode classique si vous commencez à coder sur votre ordinateur av
 Ouvrez votre terminal dans le dossier du projet.
 Initialisez Git : 
 
-    git init. 
+    git init
 
 Cela crée un dossier caché .git.
 Ajoutez vos fichiers : 
@@ -102,6 +102,8 @@ Pour envoyer une branche
 Pour récupérer les branches de `origin`
 
     git fetch --all
+
+Vous pourrez ensuite switcher sur la branche désirée
     
   
 ### Les indispensables du projet personnel
